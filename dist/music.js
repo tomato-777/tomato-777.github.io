@@ -9,7 +9,7 @@ const ap = new APlayer({
         url: 'https://m10.music.126.net/20220315211112/a0e31f9a5cd88a94828de3d5bfd1dc04/yyaac/obj/wonDkMOGw6XDiTHCmMOi/3059586968/b386/c908/f98c/ddc39cf2ed82abb245e8996a1469bdff.m4a',
         cover: 'https://p1.music.126.net/BgsCl01scHEbWJG0ijOS4A==/109951165687403090.jpg?param=130y130',	
     },
-   /* {
+    {
         name: "8 Letters",
         artist: 'why dontt me',
         url: 'https://m10.music.126.net/20220315211224/42b54dc580e6b68692a157628f8e40b5/ymusic/717a/1e06/d2ce/7ad00cb9a154be7a6ed69b758cf84e84.mp3',
@@ -111,5 +111,5 @@ const ap = new APlayer({
         url: 'https://m804.music.126.net/20220315210102/d901dbc012d47fe20b1ef172831b0d22/jdyyaac/025a/0358/065e/502d26df3742edd3cb9d14591dc1bf74.m4a?authSecret=0000017f8d9405b915770aaba36b0748',
         cover: 'https://p2.music.126.net/g0OOHCJyDFzso-SEaa_O-w==/109951165309098267.jpg?param=34y34',	
       },
-	*/]
+	]
 });
